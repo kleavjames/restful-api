@@ -1,0 +1,1 @@
+export const  mongoURI = 'mongodb://vanzexe:vanzexe@ds157873.mlab.com:57873/restfulapi-db';
